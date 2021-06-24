@@ -1,4 +1,4 @@
-# California Housing Prediction
+# Evaluation of Housing Prices in California  
 
 The dataset and required files are already in place.
 Documentation is present as well. 
